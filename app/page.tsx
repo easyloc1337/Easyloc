@@ -16,7 +16,7 @@ export default function HomePage() {
           <span className="hero-badge">Plateforme de mobilité</span>
           <h1 className="hero-title">
             La location de voiture,<br />
-            <em>enfin simple.</em>
+            <em>tout simplement.</em>
           </h1>
           <p className="hero-subtitle">
             Réservez en quelques minutes, choisissez votre véhicule, gérez votre dossier — tout depuis une seule plateforme.
